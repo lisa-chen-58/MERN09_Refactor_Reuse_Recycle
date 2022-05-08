@@ -6,7 +6,7 @@ Run:
 
 npm install
 
-npm install bootstrap
+~~npm install bootstrap~~
 
 npm start
 
