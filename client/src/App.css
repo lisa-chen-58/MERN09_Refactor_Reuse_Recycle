@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: gold;
+  width:50vmin;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  color: black;
+  border-radius: 20px;
+  border-style: groove;
+  border-color: black;
+}
+
+.App-link {
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.submit-button {
+  background-color:khaki;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border-style: groove;
+  border-width: 5px;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.home-button {
+  background-color: lavender;
+  padding: 5px 10px;
+  border-radius: 20px;
+  border-style: groove;
+  border-width: 5px;
+  font-size: 15px;
+  margin: 10px;
+}
